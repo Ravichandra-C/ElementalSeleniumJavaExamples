@@ -1,0 +1,2 @@
+[main] INFO  TestLogger  - This is a test message
+[main] FATAL second_logr  - This is fatal message
